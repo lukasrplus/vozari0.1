@@ -1,0 +1,15 @@
+body {
+  font-family: Helvetica;
+}
+
+
+#background {
+background-image: url(golf.jpg);
+height: 601px;
+background-color: black;
+font-weight: bolder;
+font-family: Helvetica;
+
+}
+
+
