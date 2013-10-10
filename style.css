@@ -1,5 +1,5 @@
 body {
-  font-family: Helvetica;
+  font-family: Helvetica Neue;
 }
 
 
@@ -7,9 +7,21 @@ body {
 background-image: url(golf.jpg);
 height: 601px;
 background-color: black;
-font-weight: bolder;
-font-family: Helvetica;
+}
 
+#background h1 {
+font-weight: bolder;
+font-family: Helvetica Neue;
+color: white;
+margin: 160px 0px 0px 30px;
+}
+
+
+#background h2 {
+font-weight: bolder;
+font-family: Helvetica Neue;
+color: white;
+margin: 10px 0px 0px 30px;
 }
 
 
